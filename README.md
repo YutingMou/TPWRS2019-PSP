@@ -3,6 +3,6 @@ Source code for Mou, Yuting, Anthony Papavasiliou, and Philippe Chevalier. "A Bi
 
 The first folder corresponds to the the small toy example in the appendix.
 
-The second and third folders correspond to the ADMM and dual decompostion algorithm, respectively. The input data input.zip shoudle be unzipped.
+The second and third folders correspond to the ADMM and dual decompostion algorithm, respectively. The input data input.zip should be unzipped.
 
 Questions can be addressed to  yuting.mou@outlook.com
